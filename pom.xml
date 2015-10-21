@@ -16,4 +16,11 @@
         </dependency>
     </dependencies>
 
+    <repositories>
+        <repository>
+            <id>zd-snapshot-repo</id>
+            <name>Zendesk Snapshot Repo</name>
+            <url>https://zdrepo.artifactoryonline.com/zdrepo/repo</url>
+        </repository>
+    </repositories>
 </project>
